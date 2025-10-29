@@ -1,24 +1,12 @@
-# Core libraries
 pandas==2.2.2
 numpy==1.26.4
-
-# NLP preprocessing
 nltk==3.9.1
 spacy==3.7.4
-
-# Machine learning
 scikit-learn==1.5.2
-
-# Embeddings
 gensim==4.3.3
-
-# Deep learning (for future BERT model)
 torch==2.4.0
 transformers==4.44.2
-
-# Visualization
 matplotlib==3.9.2
 seaborn==0.13.2
-
-# Utilities
 tqdm==4.66.4
+
