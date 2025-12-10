@@ -4,9 +4,11 @@ nltk==3.9.1
 spacy==3.7.4
 scikit-learn==1.5.2
 gensim==4.3.3
-torch==2.4.0
+tensorflow==2.17.0
 transformers==4.44.2
 matplotlib==3.9.2
 seaborn==0.13.2
 tqdm==4.66.4
-
+regex==2024.5.15
+scipy==1.12.0
+protobuf==4.25.3
