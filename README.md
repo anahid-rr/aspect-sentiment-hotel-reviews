@@ -69,10 +69,7 @@ All steps are implemented in the main Colab notebook:
 - Generate **classification reports** (Precision, Recall, F1-score)  
 - Visualize **aspect-wise performance** using bar charts  
 
-### **Step 5 (Optional): Aspect Ranking**
-- Compute **average sentiment score** per aspect  
-- Rank aspects based on sentiment polarity and frequency  
-- Display ranked aspects via **bar chart visualization**
+
 
 ---
 
